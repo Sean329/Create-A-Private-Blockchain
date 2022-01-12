@@ -3,6 +3,7 @@ Create a blockchain application to register ownership for the stars discovered b
 The main files are:
 1. src/block.js
 2. src/blockchain.js
+3. * node_modules.zip needs to be unzipped.
 
 # Testing The App
 The project is build as an express.js app with endpoints that are defined in BlockchainController.js. It's suggested to use POSTMAN to test the application.
